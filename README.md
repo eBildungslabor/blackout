@@ -1,2 +1,4 @@
-# blackout
-A bookmarklet that turns arbitrary web pages into procedurally generated blackout poetry. See the [site](https://mkremins.github.io/blackout) for more information.
+# Versteckte Verse
+Ein Bookmarklet, um Blackoutpoetry (versteckte Verse) zu generieren. Der Code ist geschrieben für englischsprachige Webseiten und hier bislang nur minimal für deutschsprachige Webseiten angepasst.  
+
+Link zum Original-Code: https://github.com/mkremins/blackout
